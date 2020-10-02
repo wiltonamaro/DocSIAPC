@@ -1,0 +1,20 @@
+site_name: SIAPC
+
+nav:
+    - home: index.md
+    - Identificação da operação: identificacao_operacao.md 
+    - Dados de clientes: dados_clientes.md
+    - Dados da operação: dados_operacao.md
+    - Renegociação: renegociacao.md
+    - Saídas: saidas.md
+    - Faixas de vencimento: faixas_vencimentos.md
+    - Procedimento DEPARA: depara.md
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: black
+
+markdown_extensions:
+  - admonition
